@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvitoBot", "AvitoBot\AvitoBot.csproj", "{385D8810-CC85-4620-AF64-85B32840BA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385D8810-CC85-4620-AF64-85B32840BA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385D8810-CC85-4620-AF64-85B32840BA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385D8810-CC85-4620-AF64-85B32840BA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385D8810-CC85-4620-AF64-85B32840BA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4A137A-C7E1-40B3-BBF5-F07C62528CC5}
+	EndGlobalSection
+EndGlobal
